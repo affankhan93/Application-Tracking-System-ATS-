@@ -386,12 +386,7 @@ Open `http://localhost:8501`.
 - Resume anonymisation (names, photos, contact details) before scoring
 - Evaluation on real, consented resumes
 
-## 🙏 Acknowledgements
-
-This project includes information from the O*NET 30.3 Database by the U.S. Department of Labor, Employment and Training Administration (USDOL/ETA). Used under the CC BY 4.0 license. O*NET® is a trademark of USDOL/ETA. The Kaggle Resume Dataset is by Sneha Anbhawal.
-
-## 👤 Author
-
-**Affan Khan** · [GitHub](https://github.com/affankhan93)
-
-Built as a portfolio project to demonstrate end-to-end data science: parsing, machine learning, RAG, AI safety, database design and a deployable Streamlit interface. .
+## Disclaimer 
+This ATS project is developed solely for portfolio purposes to demonstrate practical implementation of resume parsing, skill extraction, and candidate-job matching.
+It uses a limited dataset, so results and recommendations may not always be accurate.
+It is not intended for real-world recruitment or actual hiring decisions.
