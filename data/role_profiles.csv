@@ -1,0 +1,10 @@
+role,core_skills,description
+Data Scientist,"Python; pandas; scikit-learn; statistics; machine learning; SQL; data visualization; feature engineering; A/B testing","Builds predictive models and extracts insights from data to support business decisions."
+Data Analyst,"SQL; Excel; Power BI; Tableau; Python; dashboards; reporting; data cleaning; statistics","Cleans and analyses data and builds dashboards and reports for stakeholders."
+ML Engineer,"Python; PyTorch; TensorFlow; deep learning; MLOps; model deployment; Docker; APIs; NLP; computer vision","Trains, optimises and deploys machine learning models to production."
+Software Developer,"Java; Python; data structures; algorithms; Git; REST APIs; SQL; unit testing; OOP","Designs, writes and tests software applications and services."
+Web Developer,"HTML; CSS; JavaScript; React; Node.js; REST APIs; responsive design; Git; SQL","Builds and maintains websites and web applications."
+DevOps Engineer,"Linux; Docker; Kubernetes; CI/CD; AWS; Terraform; monitoring; Git; scripting","Automates build, deployment and infrastructure, and keeps systems reliable."
+HR Executive,"recruitment; onboarding; payroll; employee engagement; HRIS; labour law; interviewing; communication","Handles hiring, onboarding, employee relations and HR operations."
+Accountant,"Tally; GST; Excel; bookkeeping; reconciliation; financial reporting; auditing; taxation; SAP","Maintains accounts, reconciles records, prepares reports and handles tax compliance."
+Digital Marketing Executive,"SEO; Google Ads; social media; content marketing; Google Analytics; email marketing; campaigns; copywriting","Plans and runs online campaigns and measures their performance."

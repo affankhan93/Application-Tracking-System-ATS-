@@ -1,0 +1,6 @@
+
+# Environmental variable
+.env
+.venv
+.virtual_documents
+

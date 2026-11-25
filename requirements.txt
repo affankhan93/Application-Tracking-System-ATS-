@@ -1,0 +1,48 @@
+# Resume parsing 
+pymupdf 
+pdfplumber 
+python-docx 
+pytesseract 
+pillow 
+
+# App 
+streamlit 
+supabase
+pydantic 
+reportlab
+
+# ML 
+numpy 
+pandas 
+scikit-learn
+joblib
+spacy
+sentence-transformers 
+torch 
+matplotlib
+plotly
+seaborn
+nltk
+
+
+# supdatabase 
+sqlalchemy
+psycopg2-binary
+
+
+# LLM 
+groq
+google-genai 
+
+# RAG 
+langchain
+langchain-community<0.4
+langchain-groq
+langchain-google-genai
+langchain-classic
+langchain-pinecone
+pinecone
+ragas==0.2.8
+pypdf
+rank_bm25
+langchain-text-splitters 
