@@ -68,7 +68,6 @@ There is only few platform that scores resumes, explains the result, suggests jo
 | Feedback assistant | RAG (Pinecone + LLM) with guardrails | Writes pros, cons and tips from the knowledge base, never from guesswork | ✅ Live |
 | Storage and sign-in | Supabase (PostgreSQL, Auth, RLS) | Saves reports and keeps each user's data private | ✅ Live |
 | Recruiter workspace | Streamlit | Ranks candidates, anonymised labels, CSV export, manual review flag | ✅ Live |
-| Role-based recruiter features | Supabase Auth roles | Recruiter-specific workflows | 🚧 Planned |
 
 > **Important:** The score is a **guide that supports a human decision**. It never rejects a resume automatically. Resumes flagged by the integrity scan go to manual review.
 
