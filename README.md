@@ -215,11 +215,7 @@ All results below come from the synthetic sample set, so they show that the logi
 | ATS score | Hidden keywords on poisoned resumes | Hidden text raised the score by up to 17 points when the full file text was used, and by 0 when visible text was used |
 | Role ranking | 18 clean resumes, with and without the job title | Top-1 accuracy 1.00, macro F1 1.00, top-3 18 of 18 |
 
-**Kaggle classifier (fill in after running the evaluation)**
-
-```bash
-python scripts/evaluate_job_fit.py --csv data/raw/Resume.csv
-```
+**Machine learning Model Metrics for**
 
 | Metric | Score |
 | --- | --- |
