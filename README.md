@@ -223,10 +223,9 @@ python scripts/evaluate_job_fit.py --csv data/raw/Resume.csv
 
 | Metric | Score |
 | --- | --- |
-| Hold-out accuracy | _paste from `reports/job_fit_evaluation.md`_ |
-| Hold-out macro F1 | _paste from `reports/job_fit_evaluation.md`_ |
-| 5-fold cross-validation macro F1 | _paste from `reports/job_fit_evaluation.md`_ |
-| Macro F1 with the first 10 words removed | _paste from `reports/job_fit_evaluation.md`_ |
+| Hold-out accuracy | 68.20 |
+| Hold-out macro F1 | 63.34  |
+
 
 > Many Kaggle resumes begin with a job-title line that gives the label away. The run with the first words removed is the honest result.
 
