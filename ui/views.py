@@ -97,7 +97,7 @@ def process_files(files, store, jd_title = None, jd_body = None, jd_id = None) -
 
 # Upload 
 def render_upload(store) -> None:
-    html_block("<h1 class = 'ats-h1'> Upload a resume </h1><div class = 'ats-m' style = 'margin-bottom: 20px'> PDF or DOCX, up to 5 MB. The score and feedback use only the text a reader can see. </div>")
+    html_block("<h1 class = 'ats-h1'> Upload a resume </h1><div class = 'ats-m' style = 'margin-bottom: 20px'> PDF or DOCX, up to 10 MB. The score and feedback use only the text a reader can see. </div>")
     with st.container(border=True):
         file = st.file_uploader("Resume", type=['pdf', 'docx'], key = 'single_upload')
         jd = st.text_area('Job description (optional)', height=140, key='single_jd', 
