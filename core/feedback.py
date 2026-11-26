@@ -63,7 +63,7 @@ def integrity_notice(integrity) -> str | None:
         return None
     kinds = []
     for f in data['findings']:
-        words = f['evidance'].get('words')
+        words = f['evidence'].get('words')
         kinds.append(f['flag_type'].replace("_", " ") + (f" ({words} words)" if words else ""))
     level = 'high risk' if data['risk'] == 'high_risk' else 'needs review'
     return (f"Integrity check: {level}. Found: {', '.join(kinds)}. Hidden text was left out of the score and of this feedback."
