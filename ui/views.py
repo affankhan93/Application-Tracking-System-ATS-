@@ -216,7 +216,7 @@ def render_integrity(a: dict, store, anonymised: bool) -> None:
     right.markdown(card('<h2 class="ats-t">Findings</h2>' + body + '<div class="ats-m" style="margin-top:16px">'
                     f'Scoring used visible text only. A recruiter should review before any decision.{skipped}</div>'),unsafe_allow_html=True) 
     if st.button("Open resume report", key='open_report'):
-        go_to("pages/1_Upload_Report.py")
+        go_to("pages/1_Upload_report.py")
 
 
 # Candidates 
