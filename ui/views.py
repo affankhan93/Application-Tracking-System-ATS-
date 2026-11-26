@@ -78,7 +78,7 @@ def open_saved(store, rid: str, flagged_first: bool = False) -> None:
     if a is None:
         st.error("That report could not be found.")
         return 
-    go_to("pages/3_Integrity.py" if flagged_first and a['integrity']['risk'] != 'clean' else 'pages/1_Upload_Report.py', a)
+    go_to("pages/3_Integrity.py" if flagged_first and a['integrity']['risk'] != 'clean' else 'pages/1_Upload_report.py', a)
 
 def process_files(files, store, jd_title = None, jd_body = None, jd_id = None) -> list[str]:
     """Analyse and save each file. Returns a list of error messages (empty when everything worked)."""
