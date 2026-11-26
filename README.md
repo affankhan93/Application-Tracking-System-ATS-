@@ -29,11 +29,8 @@
 14. [Project Structure](#-project-structure)
 15. [Setup and Installation](#-setup-and-installation)
 16. [How to Run](#-how-to-run)
-17. [Testing](#-testing)
-18. [Responsible AI and Limitations](#-responsible-ai-and-limitations)
-19. [Future Work](#-future-work)
-20. [Acknowledgements](#-acknowledgements)
-21. [Author](#-author)
+17. [Responsible AI and Limitations](#-responsible-ai-and-limitations)
+18. [Future Work](#-future-work)
 
 ---
 
